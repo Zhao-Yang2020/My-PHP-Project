@@ -8,3 +8,4 @@ The code is mixed PHP with HTML and CSS. In the future I will add in Bootstrapt 
 
 ## Thank you for reading my php project<br>
 For interviewer, this code is used on my local host, so here are some preview of my code that will make you can read my content easier:<br>
+![123](../JimYangZhao/My-PHP-Project/university.png)
