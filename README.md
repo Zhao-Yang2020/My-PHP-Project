@@ -13,4 +13,3 @@ For interviewer, this code is used on my local host, so here are some preview of
 ![123](image/screen3.png)
 ![123](image/screen-home.png)
 ![123](image/screen-project.png)
-![123](image/screen-re.png)
