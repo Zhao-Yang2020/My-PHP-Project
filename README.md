@@ -8,9 +8,9 @@ The code is mixed PHP with HTML and CSS. In the future I will add in Bootstrapt 
 
 ## Thank you for reading my php project<br>
 For interviewer, this code is used on my local host, so here are some preview of my code that will make you can read my content easier:<br>
-![123](screen1.png)
-![123](screen2.png)
-![123](screen3.png)
-![123](screen-home.png)
-![123](screen-project.png)
-![123](screen-re.png)
+![123](image/screen1.png)
+![123](image/screen2.png)
+![123](image/screen3.png)
+![123](image/screen-home.png)
+![123](image/screen-project.png)
+![123](image/screen-re.png)
